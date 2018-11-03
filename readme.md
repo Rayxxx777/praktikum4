@@ -28,4 +28,4 @@ int main()
         return 0;
 }
 
-(https://raw.githubusercontent.com/Rayxxx777/praktikum4/master/praktikum4.png)
+![alt tag](https://raw.githubusercontent.com/Rayxxx777/praktikum4/master/praktikum4.png)
